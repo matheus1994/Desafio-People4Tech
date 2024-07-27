@@ -8,7 +8,7 @@ namespace Apresentação
     public class TaskApp: ITaskApp
     {
 
-        private TaskServices tasks = new();
+        private TaskService tasks = new();
 
         public void create(Task task){
             this.tasks.adicionar(task);
