@@ -1,0 +1,13 @@
+1 - Explique o que são os princípios SOLID e como cada um deles pode ser aplicado em um projeto desenvolvido em .NET.
+
+Resposta: Os princípios SOLID são regras para deixar os código mais organizado, eles podem ter a simplificação do código, os códigos podem ser reutilizados, podem ser mais legíveis e terão redução de erro.
+
+2 - Quais são os principais padrões de arquitetura de software utilizados em aplicações .NET? Descreva dois desses padrões e seus benefícios.
+
+Resposta: Arquitetura client-server, Arquitetura em camadas, Arquitetura Model-View-Controller, Arquitetura orientada a serviços, Pipes and filters, Arquitetura monolítica, Arquitetura baseada em microsserviços, Arquitetura hexagonal.
+Arquitetura client-server - Ela funciona bem, para realizar atualizações mais simples em dados e se precisar apenas exibir as informações.
+Arquitetura em camadas - Cada uma tem uma responsabilidade e funcionalidades específicas.
+
+3 - Por que é importante separar a lógica de negócios da lógica de apresentação em uma aplicação .NET? Como isso pode ser alcançado?
+
+Resposta: É importante separar para ficar mais organizado. Isso é feito divido por camadas, que na verdade são pastas com arquivos, onde cada uma vai ter a sua responsabilidade.
