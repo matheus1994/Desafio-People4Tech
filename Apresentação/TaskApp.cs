@@ -15,7 +15,7 @@ namespace Apresentação
         }
 
         public void read(){
-            this.tasks.atualizar();
+            this.tasks.listar();
         }
 
         public void update(Task task, int x){
